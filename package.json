@@ -1,0 +1,16 @@
+{
+  "name": "goose-node",
+  "version": "1.0.0",
+  "description": "goose-parser node",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Andrew Red",
+  "license": "BSD",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "domain": "0.0.1",
+    "goose-parser": "^0.2.0-alpha.42",
+    "kue": "^0.9.6",
+    "lodash": "^3.10.1"
+  }
+}
